@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/varawat/varawat-2025-2-4-14-14-13/:/
+ - /content/varawat/varawat-2025-2-4-14-14-13/metadata.json:/metadata.json
+ - /content/varawat/varawat-2025-2-4-14-14-13/redirects.json:/redirects.json
